@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: rgb(200, 117, 236);
+  display: flex;
+  justify-content:space-between;
+  
+}
+
+.card{
+  border: 2px solid black;
+  padding: 30px;
+  border-radius: 4px;
+  margin-bottom: 2px;
+  display: inline-block;
+  margin-left: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+  margin-top: 10px;
+
+}
+
+.button{
+  padding: 10px 12px;
+  background-color: rgb(82, 74, 74);
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.button:hover{
+  background-color: rgb(237, 202, 44);
+  color: blue;
+}
+
